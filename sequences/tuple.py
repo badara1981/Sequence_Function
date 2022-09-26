@@ -41,3 +41,5 @@ def  full_name(**kwargs):
             print('full_name {]'.format(kwargs['full_name']))
     else:
         print('his name is felipe Gonzalez')
+
+full_name()
